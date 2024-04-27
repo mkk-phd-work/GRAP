@@ -1,6 +1,10 @@
-# UBB-Template
+# GRAP
 
-Template for publishing course material
+Grouped shap values
+
+Motivation: 
+- Hierarchical/grouped forcast importance in different time windows/forcast dimensions
+
 
 ## Usage
 
