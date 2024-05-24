@@ -40,7 +40,7 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build ubb_template
+          jupyter-book build ubb_template --builder singlehtml
 
       # Upload the book's HTML as an artifact
       - name: Upload artifact
