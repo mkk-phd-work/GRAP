@@ -1,10 +1,13 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
-# format: jb-book
-format: jb-article
+format: jb-book
+# format: jb-article
 root: intro
-sections:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+# sections:
+chapters:
+- file: grap/grap.md
+- file: cond_pfi/cond_pfi.md
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks
